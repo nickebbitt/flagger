@@ -1,4 +1,3 @@
-# Gateway API Canary Deployments
 
 This guide shows you how to use Gateway API and Flagger to automate canary deployments.
 
