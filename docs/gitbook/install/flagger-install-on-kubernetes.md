@@ -4,7 +4,7 @@ This guide walks you through setting up Flagger on a Kubernetes cluster with Hel
 
 ## Prerequisites
 
-Flagger requires a Kubernetes cluster **v1.16** or newer.
+Flagger requires a Kubernetes cluster **v1.16** or newer with [Istio](https://istio.io/latest/docs/setup/install/) installed.
 
 ## Install Flagger with Helm
 
